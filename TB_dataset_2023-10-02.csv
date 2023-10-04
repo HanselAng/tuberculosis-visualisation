@@ -1,0 +1,445 @@
+country,iso2,g_whoregion,year,m_01
+Albania,AL,EUR,2020,240
+Albania,AL,EUR,2021,269
+Albania,AL,EUR,2022,273
+Albania,AL,EUR,2023,97
+Andorra,AD,EUR,2020,2
+Andorra,AD,EUR,2021,2
+Andorra,AD,EUR,2022,4
+Andorra,AD,EUR,2023,2
+Angola,AO,AFR,2020,65257
+Angola,AO,AFR,2021,47793
+Angola,AO,AFR,2022,68836
+Angola,AO,AFR,2023,32012
+Antigua and Barbuda,AG,AMR,2020,2
+Antigua and Barbuda,AG,AMR,2021,4
+Antigua and Barbuda,AG,AMR,2022,1
+Antigua and Barbuda,AG,AMR,2023,1
+Argentina,AR,AMR,2020,9768
+Argentina,AR,AMR,2021,11211
+Argentina,AR,AMR,2022,14644
+Argentina,AR,AMR,2023,6662
+Armenia,AM,EUR,2020,394
+Armenia,AM,EUR,2021,221
+Armenia,AM,EUR,2022,440
+Armenia,AM,EUR,2023,249
+Aruba,AW,AMR,2021,0
+Aruba,AW,AMR,2022,2
+Aruba,AW,AMR,2023,1
+Azerbaijan,AZ,EUR,2020,3680
+Azerbaijan,AZ,EUR,2021,3614
+Azerbaijan,AZ,EUR,2022,3989
+Bahamas,BS,AMR,2020,32
+Bahamas,BS,AMR,2021,45
+Bahamas,BS,AMR,2022,49
+Bahamas,BS,AMR,2023,15
+Bangladesh,BD,SEA,2020,230090
+Bangladesh,BD,SEA,2021,306517
+Bangladesh,BD,SEA,2022,263126
+Bangladesh,BD,SEA,2023,148486
+Barbados,BB,AMR,2022,3
+Belarus,BY,EUR,2020,1562
+Belarus,BY,EUR,2021,1482
+Belarus,BY,EUR,2022,1683
+Belarus,BY,EUR,2023,1081
+Belize,BZ,AMR,2020,81
+Belize,BZ,AMR,2021,58
+Belize,BZ,AMR,2022,78
+Belize,BZ,AMR,2023,22
+Benin,BJ,AFR,2021,3711
+Benin,BJ,AFR,2022,2056
+Bolivia (Plurinational State of),BO,AMR,2020,5928
+Bolivia (Plurinational State of),BO,AMR,2021,4889
+Bolivia (Plurinational State of),BO,AMR,2023,4356
+Bosnia and Herzegovina,BA,EUR,2023,91
+Botswana,BW,AFR,2021,2144
+Botswana,BW,AFR,2022,1800
+Brazil,BR,AMR,2020,78638
+Bulgaria,BG,EUR,2020,493
+Burkina Faso,BF,AFR,2021,5098
+Burkina Faso,BF,AFR,2022,6894
+Burkina Faso,BF,AFR,2023,1861
+Burundi,BI,AFR,2021,6874
+Burundi,BI,AFR,2022,3764
+Burundi,BI,AFR,2023,2032
+Cabo Verde,CV,AFR,2021,31
+Cambodia,KH,WPR,2020,29123
+Cambodia,KH,WPR,2021,21662
+Cambodia,KH,WPR,2022,32451
+Cambodia,KH,WPR,2023,14853
+Cameroon,CM,AFR,2021,22740
+Cameroon,CM,AFR,2022,25446
+Cameroon,CM,AFR,2023,12696
+Central African Republic,CF,AFR,2021,6239
+Chad,TD,AFR,2021,13432
+Chad,TD,AFR,2022,14693
+Chile,CL,AMR,2020,2351
+Chile,CL,AMR,2021,2659
+Chile,CL,AMR,2022,2805
+Chile,CL,AMR,2023,909
+China,CN,WPR,2020,615269
+China,CN,WPR,2021,581224
+China,CN,WPR,2022,509338
+Colombia,CO,AMR,2020,11737
+Colombia,CO,AMR,2021,13279
+Colombia,CO,AMR,2022,17452
+Colombia,CO,AMR,2023,4799
+Costa Rica,CR,AMR,2020,335
+Costa Rica,CR,AMR,2021,279
+Costa Rica,CR,AMR,2022,303
+Costa Rica,CR,AMR,2023,62
+Côte d'Ivoire,CI,AFR,2021,20684
+Côte d'Ivoire,CI,AFR,2022,21442
+Côte d'Ivoire,CI,AFR,2023,5930
+Croatia,HR,EUR,2023,36
+Cuba,CU,AMR,2020,580
+Cuba,CU,AMR,2021,333
+Cuba,CU,AMR,2022,715
+Cuba,CU,AMR,2023,133
+Democratic People's Republic of Korea,KP,SEA,2020,98369
+Democratic People's Republic of Korea,KP,SEA,2021,87413
+Democratic People's Republic of Korea,KP,SEA,2022,81776
+Democratic Republic of the Congo,CD,AFR,2020,199492
+Democratic Republic of the Congo,CD,AFR,2021,215380
+Democratic Republic of the Congo,CD,AFR,2023,125156
+Denmark,DK,EUR,2020,117
+Denmark,DK,EUR,2022,203
+Dominica,DM,AMR,2020,22
+Dominica,DM,AMR,2021,0
+Dominica,DM,AMR,2022,0
+Dominican Republic,DO,AMR,2020,2330
+Dominican Republic,DO,AMR,2021,3496
+Dominican Republic,DO,AMR,2022,4228
+Dominican Republic,DO,AMR,2023,2976
+Ecuador,EC,AMR,2020,5268
+Ecuador,EC,AMR,2021,4251
+Ecuador,EC,AMR,2022,6460
+Ecuador,EC,AMR,2023,3287
+El Salvador,SV,AMR,2020,2037
+El Salvador,SV,AMR,2021,343
+El Salvador,SV,AMR,2022,1528
+Equatorial Guinea,GQ,AFR,2021,290
+Equatorial Guinea,GQ,AFR,2022,1003
+Eritrea,ER,AFR,2021,317
+Estonia,EE,EUR,2020,119
+Estonia,EE,EUR,2021,99
+Estonia,EE,EUR,2022,123
+Estonia,EE,EUR,2023,23
+Eswatini,SZ,AFR,2021,1961
+Eswatini,SZ,AFR,2022,2300
+Eswatini,SZ,AFR,2023,983
+Ethiopia,ET,AFR,2020,102167
+Ethiopia,ET,AFR,2021,103747
+Ethiopia,ET,AFR,2022,123373
+Ethiopia,ET,AFR,2023,32363
+Finland,FI,EUR,2020,174
+Finland,FI,EUR,2021,158
+Finland,FI,EUR,2022,192
+Finland,FI,EUR,2023,31
+France,FR,EUR,2020,4555
+France,FR,EUR,2021,4256
+France,FR,EUR,2022,4111
+Gabon,GA,AFR,2021,5073
+Gabon,GA,AFR,2022,6299
+Gabon,GA,AFR,2023,716
+Gambia,GM,AFR,2021,2218
+Gambia,GM,AFR,2022,2517
+Georgia,GE,EUR,2020,927
+Georgia,GE,EUR,2021,1482
+Germany,DE,EUR,2020,2171
+Germany,DE,EUR,2021,3856
+Germany,DE,EUR,2022,3592
+Ghana,GH,AFR,2021,12937
+Ghana,GH,AFR,2022,13031
+Grenada,GD,AMR,2020,1
+Grenada,GD,AMR,2021,2
+Grenada,GD,AMR,2022,2
+Grenada,GD,AMR,2023,1
+Guatemala,GT,AMR,2020,2709
+Guatemala,GT,AMR,2021,2802
+Guatemala,GT,AMR,2022,3075
+Guatemala,GT,AMR,2023,1899
+Guinea,GN,AFR,2021,18030
+Guinea,GN,AFR,2022,19911
+Guinea-Bissau,GW,AFR,2021,2418
+Guinea-Bissau,GW,AFR,2022,2869
+Guinea-Bissau,GW,AFR,2023,1176
+Guyana,GY,AMR,2020,351
+Guyana,GY,AMR,2021,414
+Guyana,GY,AMR,2022,338
+Guyana,GY,AMR,2023,134
+Haiti,HT,AMR,2020,8023
+Honduras,HN,AMR,2020,1854
+Honduras,HN,AMR,2021,1520
+Honduras,HN,AMR,2022,553
+Hungary,HU,EUR,2020,214
+Hungary,HU,EUR,2021,320
+Hungary,HU,EUR,2022,437
+Hungary,HU,EUR,2023,318
+India,IN,SEA,2020,1621483
+India,IN,SEA,2021,1933381
+India,IN,SEA,2022,2250434
+India,IN,SEA,2023,1035701
+Indonesia,ID,SEA,2020,327512
+Indonesia,ID,SEA,2021,445246
+Indonesia,ID,SEA,2022,741794
+Indonesia,ID,SEA,2023,402657
+Ireland,IE,EUR,2020,240
+Ireland,IE,EUR,2021,219
+Ireland,IE,EUR,2022,225
+Ireland,IE,EUR,2023,128
+Israel,IL,EUR,2020,60
+Israel,IL,EUR,2023,110
+Italy,IT,EUR,2020,1913
+Italy,IT,EUR,2021,1952
+Jamaica,JM,AMR,2020,54
+Jamaica,JM,AMR,2021,43
+Jamaica,JM,AMR,2022,75
+Jamaica,JM,AMR,2023,10
+Kazakhstan,KZ,EUR,2020,9235
+Kazakhstan,KZ,EUR,2021,9412
+Kazakhstan,KZ,EUR,2022,9850
+Kazakhstan,KZ,EUR,2023,4289
+Kenya,KE,AFR,2020,71123
+Kenya,KE,AFR,2021,57372
+Kenya,KE,AFR,2022,90628
+Kenya,KE,AFR,2023,50609
+Kyrgyzstan,KG,EUR,2020,4022
+Kyrgyzstan,KG,EUR,2021,4390
+Kyrgyzstan,KG,EUR,2022,4096
+Kyrgyzstan,KG,EUR,2023,296
+Lao People's Democratic Republic,LA,WPR,2020,7178
+Lao People's Democratic Republic,LA,WPR,2021,6067
+Lao People's Democratic Republic,LA,WPR,2022,8473
+Lao People's Democratic Republic,LA,WPR,2023,6047
+Lesotho,LS,AFR,2020,4571
+Lesotho,LS,AFR,2021,4471
+Lesotho,LS,AFR,2022,5598
+Lesotho,LS,AFR,2023,2817
+Liberia,LR,AFR,2021,5674
+Lithuania,LT,EUR,2020,688
+Lithuania,LT,EUR,2021,614
+Lithuania,LT,EUR,2022,661
+Lithuania,LT,EUR,2023,278
+Luxembourg,LU,EUR,2021,27
+Luxembourg,LU,EUR,2022,49
+Madagascar,MG,AFR,2021,38642
+Madagascar,MG,AFR,2023,11873
+Malawi,MW,AFR,2021,14125
+Malawi,MW,AFR,2022,13707
+Malawi,MW,AFR,2023,4715
+Malaysia,MY,WPR,2020,22963
+Malaysia,MY,WPR,2021,21151
+Malaysia,MY,WPR,2022,24770
+Malaysia,MY,WPR,2023,14331
+Mali,ML,AFR,2021,5085
+Mali,ML,AFR,2022,1833
+Malta,MT,EUR,2020,140
+Malta,MT,EUR,2021,57
+Malta,MT,EUR,2022,61
+Malta,MT,EUR,2023,39
+Mauritania,MR,AFR,2022,1418
+Mauritius,MU,AFR,2021,32
+Mauritius,MU,AFR,2022,119
+Mauritius,MU,AFR,2023,67
+Mexico,MX,AMR,2020,18160
+Mexico,MX,AMR,2021,21197
+Mexico,MX,AMR,2022,24773
+Mexico,MX,AMR,2023,10934
+Monaco,MC,EUR,2021,1
+Monaco,MC,EUR,2022,0
+Monaco,MC,EUR,2023,1
+Mongolia,MN,WPR,2020,3801
+Mongolia,MN,WPR,2021,2709
+Mongolia,MN,WPR,2022,2798
+Mongolia,MN,WPR,2023,1559
+Montenegro,ME,EUR,2020,42
+Montenegro,ME,EUR,2021,76
+Montenegro,ME,EUR,2022,67
+Montenegro,ME,EUR,2023,44
+Mozambique,MZ,AFR,2020,97091
+Mozambique,MZ,AFR,2021,98431
+Mozambique,MZ,AFR,2022,110671
+Mozambique,MZ,AFR,2023,25379
+Myanmar,MM,SEA,2020,55781
+Myanmar,MM,SEA,2021,63445
+Myanmar,MM,SEA,2022,111644
+Myanmar,MM,SEA,2023,63080
+Namibia,NA,AFR,2020,6537
+Namibia,NA,AFR,2021,6864
+Namibia,NA,AFR,2022,2067
+Namibia,NA,AFR,2023,2289
+Nepal,NP,SEA,2020,26364
+Nepal,NP,SEA,2021,31286
+Nepal,NP,SEA,2022,36795
+Nepal,NP,SEA,2023,11335
+Netherlands (Kingdom of the),NL,EUR,2020,623
+Netherlands (Kingdom of the),NL,EUR,2021,689
+Netherlands (Kingdom of the),NL,EUR,2022,637
+Netherlands (Kingdom of the),NL,EUR,2023,498
+Nicaragua,NI,AMR,2020,1886
+Nicaragua,NI,AMR,2021,1835
+Nicaragua,NI,AMR,2022,2102
+Nicaragua,NI,AMR,2023,1046
+Niger,NE,AFR,2021,12775
+Niger,NE,AFR,2022,14253
+Niger,NE,AFR,2023,7691
+Nigeria,NG,AFR,2020,135638
+Nigeria,NG,AFR,2021,204606
+Nigeria,NG,AFR,2022,206507
+North Macedonia,MK,EUR,2020,82
+North Macedonia,MK,EUR,2022,74
+North Macedonia,MK,EUR,2023,24
+Norway,NO,EUR,2020,91
+Norway,NO,EUR,2021,70
+Norway,NO,EUR,2023,51
+Pakistan,PK,EMR,2020,273047
+Pakistan,PK,EMR,2021,341273
+Pakistan,PK,EMR,2022,424559
+Panama,PA,AMR,2020,1256
+Panama,PA,AMR,2021,1327
+Panama,PA,AMR,2022,1478
+Papua New Guinea,PG,WPR,2020,28311
+Papua New Guinea,PG,WPR,2021,28873
+Papua New Guinea,PG,WPR,2022,31473
+Papua New Guinea,PG,WPR,2023,8391
+Paraguay,PY,AMR,2020,2387
+Paraguay,PY,AMR,2021,1975
+Paraguay,PY,AMR,2022,3479
+Peru,PE,AMR,2020,23366
+Peru,PE,AMR,2021,25392
+Peru,PE,AMR,2022,27293
+Peru,PE,AMR,2023,14177
+Philippines,PH,WPR,2020,259458
+Philippines,PH,WPR,2021,297793
+Philippines,PH,WPR,2022,415180
+Philippines,PH,WPR,2023,330032
+Portugal,PT,EUR,2020,1135
+Portugal,PT,EUR,2021,1386
+Portugal,PT,EUR,2022,1373
+Portugal,PT,EUR,2023,386
+Puerto Rico,PR,AMR,2020,27
+Puerto Rico,PR,AMR,2021,18
+Puerto Rico,PR,AMR,2022,22
+Puerto Rico,PR,AMR,2023,4
+Republic of Moldova,MD,EUR,2020,1758
+Republic of Moldova,MD,EUR,2021,2059
+Republic of Moldova,MD,EUR,2022,2118
+Republic of Moldova,MD,EUR,2023,1005
+Romania,RO,EUR,2020,7221
+Romania,RO,EUR,2021,7618
+Romania,RO,EUR,2022,8824
+Romania,RO,EUR,2023,5142
+Russian Federation,RU,EUR,2020,58331
+Russian Federation,RU,EUR,2021,56780
+Russian Federation,RU,EUR,2022,57137
+Russian Federation,RU,EUR,2023,37361
+Rwanda,RW,AFR,2021,5178
+Saint Kitts and Nevis,KN,AMR,2020,2
+Saint Kitts and Nevis,KN,AMR,2021,3
+Saint Kitts and Nevis,KN,AMR,2022,1
+Saint Lucia,LC,AMR,2020,9
+Saint Lucia,LC,AMR,2021,4
+Saint Lucia,LC,AMR,2022,2
+Saint Lucia,LC,AMR,2023,1
+Saint Vincent and the Grenadines,VC,AMR,2020,13
+Saint Vincent and the Grenadines,VC,AMR,2021,4
+Saint Vincent and the Grenadines,VC,AMR,2022,5
+Saint Vincent and the Grenadines,VC,AMR,2023,2
+Sao Tome and Principe,ST,AFR,2021,26
+Sao Tome and Principe,ST,AFR,2022,59
+Sao Tome and Principe,ST,AFR,2023,36
+Senegal,SN,AFR,2021,3489
+Serbia,RS,EUR,2020,89
+Serbia,RS,EUR,2023,194
+Seychelles,SC,AFR,2021,10
+Seychelles,SC,AFR,2022,16
+Seychelles,SC,AFR,2023,1
+Sierra Leone,SL,AFR,2020,15790
+Sierra Leone,SL,AFR,2021,17669
+Sierra Leone,SL,AFR,2022,19404
+Sierra Leone,SL,AFR,2023,5653
+Sint Maarten (Dutch part),SX,AMR,2020,0
+Sint Maarten (Dutch part),SX,AMR,2021,0
+Slovakia,SK,EUR,2020,54
+Slovakia,SK,EUR,2021,140
+Slovakia,SK,EUR,2022,137
+Slovakia,SK,EUR,2023,68
+Slovenia,SI,EUR,2020,76
+Slovenia,SI,EUR,2021,80
+Slovenia,SI,EUR,2022,75
+Slovenia,SI,EUR,2023,61
+Solomon Islands,SB,WPR,2020,321
+Solomon Islands,SB,WPR,2021,365
+Solomon Islands,SB,WPR,2022,78
+South Africa,ZA,AFR,2020,191240
+South Africa,ZA,AFR,2021,168603
+South Africa,ZA,AFR,2023,45232
+South Sudan,SS,AFR,2021,49582
+South Sudan,SS,AFR,2022,14899
+Suriname,SR,AMR,2020,108
+Suriname,SR,AMR,2021,69
+Suriname,SR,AMR,2022,126
+Suriname,SR,AMR,2023,66
+Sweden,SE,EUR,2020,328
+Sweden,SE,EUR,2021,367
+Sweden,SE,EUR,2022,380
+Sweden,SE,EUR,2023,189
+Switzerland,CH,EUR,2020,348
+Switzerland,CH,EUR,2021,336
+Switzerland,CH,EUR,2022,365
+Switzerland,CH,EUR,2023,25
+Tajikistan,TJ,EUR,2020,4147
+Thailand,TH,SEA,2020,89760
+Thailand,TH,SEA,2021,66700
+Thailand,TH,SEA,2022,71924
+Thailand,TH,SEA,2023,25986
+Timor-Leste,TL,SEA,2020,3225
+Timor-Leste,TL,SEA,2021,3155
+Timor-Leste,TL,SEA,2022,5370
+Timor-Leste,TL,SEA,2023,1356
+Togo,TG,AFR,2021,2421
+Togo,TG,AFR,2022,3051
+Togo,TG,AFR,2023,819
+Trinidad and Tobago,TT,AMR,2020,223
+Trinidad and Tobago,TT,AMR,2021,67
+Türkiye,TR,EUR,2020,8961
+Türkiye,TR,EUR,2021,9136
+Türkiye,TR,EUR,2022,9792
+Uganda,UG,AFR,2020,60762
+Uganda,UG,AFR,2021,74735
+Uganda,UG,AFR,2022,94250
+Uganda,UG,AFR,2023,45469
+Ukraine,UA,EUR,2020,17538
+Ukraine,UA,EUR,2021,17980
+Ukraine,UA,EUR,2022,18190
+Ukraine,UA,EUR,2023,11854
+United Kingdom of Great Britain and Northern Ireland,GB,EUR,2020,4459
+United Kingdom of Great Britain and Northern Ireland,GB,EUR,2021,4440
+United Kingdom of Great Britain and Northern Ireland,GB,EUR,2022,305
+United Republic of Tanzania,TZ,AFR,2020,84686
+United Republic of Tanzania,TZ,AFR,2021,85526
+United Republic of Tanzania,TZ,AFR,2022,99752
+United Republic of Tanzania,TZ,AFR,2023,61748
+United States of America,US,AMR,2020,7163
+United States of America,US,AMR,2021,2998
+Uruguay,UY,AMR,2020,966
+Uruguay,UY,AMR,2021,646
+Uruguay,UY,AMR,2022,1105
+Uzbekistan,UZ,EUR,2022,3578
+Venezuela (Bolivarian Republic of),VE,AMR,2020,9313
+Venezuela (Bolivarian Republic of),VE,AMR,2021,9346
+Venezuela (Bolivarian Republic of),VE,AMR,2022,9820
+Venezuela (Bolivarian Republic of),VE,AMR,2023,4990
+Viet Nam,VN,WPR,2020,95323
+Viet Nam,VN,WPR,2021,68705
+Viet Nam,VN,WPR,2022,98638
+Viet Nam,VN,WPR,2023,47206
+Zambia,ZM,AFR,2020,40028
+Zambia,ZM,AFR,2021,49650
+Zambia,ZM,AFR,2022,56216
+Zambia,ZM,AFR,2023,14089
+Zimbabwe,ZW,AFR,2020,11653
+Zimbabwe,ZW,AFR,2021,10651
+Zimbabwe,ZW,AFR,2022,17805
+Zimbabwe,ZW,AFR,2023,
